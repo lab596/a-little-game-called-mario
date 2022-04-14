@@ -23,7 +23,7 @@ rect_scale = Vector2( 2, 2 )
 custom_fonts/normal_font = ExtResource( 1 )
 bbcode_enabled = true
 bbcode_text = "
-[wave amp=50 freq=2]COINS:[rainbow freq=0.5 sat=1 val=20]0[/rainbow] [/wave]"
+[wave amp=50 freq=2]COINS:[rainbow freq=0.5 sat=1 val=20]%d[/rainbow] [/wave]"
 text = "
 COINS:0 "
 script = ExtResource( 2 )
